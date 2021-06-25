@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Item from "./Items";
 
 function App() {
   const [newItem, setItem] = useState("");
